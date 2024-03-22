@@ -116,8 +116,8 @@ const experiences = [
     points: [
       "Updated and produced front end UI/UX components that help win Dempsey 2023 Startup Competiton.",
       "Implemented blog post tool that allows for front-end display of various web articles and back-end functionality for creating new posts.",
-      "Refactored parts of the code base to newer technologies such as React, Next.js, Typescript and Azure Cosmos DB",
-      "Designed and developed RESTful APIs to provide efficient communication between client applications and server systems..",
+      "Refactored parts of the code base to newer technologies such as React, Next.js, Typescript and Azure Cosmos DB.",
+      "Designed and developed RESTful APIs to provide efficient communication between client applications and server systems.",
     ],
   },
   {
@@ -127,10 +127,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "June 2023 - Aug 2023",
     points: [
-      "Worked with Open AI and Trello to convert commits to release notes automatically. This was done to save time for project managers in updating clients with progress.",
+      "Worked with Open AI and Trello API's to convert commits to release notes automatically. This was done to save time for project managers in updating clients with progress.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Designed and devloped RESTful APIs to provide efficient communication with Next.js front-end and application servers.",
-      "Created a hook that updates the database automatically after a certain threshhold is reached to reduce manual labor.",
+      "Created a hook that updates the database automatically after a certain threshhold is reached to reduce manual input.",
     ],
   },
   {
@@ -141,9 +141,9 @@ const experiences = [
     date: "Feb 2023 - June 2023",
     points: [
       "Developed mobile-focused websites for clients using HTML, CSS, and JavaScript.",
-      "Utilized Eleventy.js and Netilfy to create efficient and high-performing websites without a high upkeep.",
+      "Utilized Eleventy.js and Netilfy to create efficient and high-performing websites.",
       "Collaborated closely with clients to ensure their vision was realized and their needs for the tools were met.",
-      "Created a CSM system that allowed client to update inventory manually, receive inquiries about products and track user flow.",
+      "Created a CSM system that allowed client to update inventory, receive inquiries about products and track user flow.",
     ],
   },
   {
