@@ -1,14 +1,12 @@
 import {
   mobile,
   backend,
-  creator,
   web,
   javascript,
   typescript,
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   mongodb,
@@ -18,7 +16,6 @@ import {
   cledge, 
   cledge_landing,
   dw_landing,
-  threejs,
   eyecuelab,
   cascadia,
   satellite,
@@ -52,10 +49,6 @@ const services = [
   {
     title: "Backend Developer",
     icon: backend,
-  },
-  {
-    title: "Content Creator",
-    icon: creator,
   },
 ];
 

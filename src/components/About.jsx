@@ -46,7 +46,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        <h2 className={styles.heroSubText}> I'm Justin, a Software Engineer working for a edTech startup called Cledge as a Frontend Developer in Emerald City Seattle. Outside of coding, I enjoy bouldering, going on hikes and creating content!</h2>
+        <h2 className={styles.heroSubText}> I'm Justin, a Software Engineer working for a edTech startup called Cledge as a Frontend Developer in Emerald City Seattle. Outside of coding, I enjoy bouldering, going on hikes and learning new things!</h2>
 
 
       </motion.p>
