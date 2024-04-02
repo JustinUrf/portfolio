@@ -107,7 +107,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2023 - Present",
     points: [
-      "Updated and produced front end UI/UX components that help win Dempsey 2023 Startup Competiton.",
+      "Updated and produced front end UI/UX components that help win Dempsey 2023 Startup Competition.",
       "Implemented blog post tool that allows for front-end display of various web articles and back-end functionality for creating new posts.",
       "Refactored parts of the code base to newer technologies such as React, Next.js, Typescript and Azure Cosmos DB.",
       "Designed and developed RESTful APIs to provide efficient communication between client applications and server systems.",
