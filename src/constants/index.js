@@ -219,7 +219,7 @@ const projects = [
       },
     ],
     image: oregon_landing,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.oregonsmash.com/",
   },
 ];
 
