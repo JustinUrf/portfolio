@@ -122,8 +122,8 @@ const experiences = [
     points: [
       "Worked with Open AI and Trello API's to convert commits to release notes automatically. This was done to save time for project managers in updating clients with progress.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Designed and devloped RESTful APIs to provide efficient communication with Next.js front-end and application servers.",
-      "Created a hook that updates the database automatically after a certain threshhold is reached to reduce manual input.",
+      "Designed and developed RESTful APIs to provide efficient communication with Next.js front-end and application servers.",
+      "Created a hook that updates the database automatically after a certain threshold is reached to reduce manual input.",
     ],
   },
   {
