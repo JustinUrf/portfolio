@@ -134,7 +134,7 @@ const experiences = [
     date: "Feb 2023 - June 2023",
     points: [
       "Developed mobile-focused websites for clients using HTML, CSS, and JavaScript.",
-      "Utilized Eleventy.js and Netilfy to create efficient and high-performing websites.",
+      "Utilized Eleventy.js and Netlify to create efficient and high-performing websites.",
       "Collaborated closely with clients to ensure their vision was realized and their needs for the tools were met.",
       "Created a CSM system that allowed client to update inventory, receive inquiries about products and track user flow.",
     ],
